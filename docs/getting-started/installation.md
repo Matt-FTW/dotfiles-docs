@@ -15,7 +15,7 @@
 >
 > To install CLI/TUI specific packages in non-arch based distros, I recommend to use [homebrew](https://brew.sh/).
 >
-> In the guide, I will be using [Yay](https://github.com/Jguer/yay) as the AUR helper. Be sure to [install it](../.local/bin/installYay) or change the commands to your preferred one.
+> In the guide, I will be using [Yay](https://github.com/Jguer/yay) as the AUR helper. Be sure to [install it](https://github.com/Matt-FTW/dotfiles/blob/main/.local/bin/installYay) or change the commands to your preferred one.
 
 ### Base Packages
 
@@ -185,7 +185,7 @@ You also need to change the workspaces associated with that monitor. For that, c
 
 For more information about Hyprland monitors and workspaces, [check the docs](https://wiki.hyprland.org/).
 
-Now, for the Waybar to appear you also need to change the output definition on [this file](../.config/waybar/config.jsonc).
+Now, for the Waybar to appear you also need to change the output definition on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/waybar/config.jsonc).
 
 - **Change Default Applications**
 
@@ -199,7 +199,7 @@ If you wanna change the default apps used in the Hyprland bindings, change the v
 
 - **Default Editor**
 
-The default editor is Neovim, but you can change it to whatever editor you want. You only need to edit the [fish variables file](../.config/fish/user_variables.fish), and find where the EDITOR variable is defined.
+The default editor is Neovim, but you can change it to whatever editor you want. You only need to edit the [fish variables file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/fish/user_variables.fish), and find where the EDITOR variable is defined.
 
 Here's and example on how to change it to use VSCode.
 
@@ -210,7 +210,7 @@ set -xg EDITOR code
 
 - **Git Changes**
 
-If you are going to use git, be sure to change the user definition as well as the credentials over on the [gitconfig file](../.config/git/config).
+If you are going to use git, be sure to change the user definition as well as the credentials over on the [gitconfig file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/git/config).
 
 - **Laptop Additions**
 
@@ -321,19 +321,19 @@ systemctl --user enable --now pipewire wireplumber
 
 And there you have it.
 
-- **Specific Configs/Information** (_Optional_)
-
-Finally, if you want to take a look at some specific app configuration, check the READMEs from each app in their respective config folders.
-
-Some configuration examples are:
-
-- [fish](../.config/fish/)
-- [neovim](../.config/nvim/)
-- [browser](../.config/browser/)
-- [yazi](../.config/yazi/)
-- [hyprland](../.config/hypr/)
-- [vscodium](../.config/VSCodium/User/)
-- [tmux](../.config/tmux/)
-
-If you had any issues feel free to [open an issue](https://github.com/Matt-FTW/dotfiles/issues/new/choose).
-Do you have some questions about the installation process? You can create a [new discussion post](https://github.com/Matt-FTW/dotfiles/discussions/new/choose) then. Be sure to read the [FAQ](./FAQ.md) first!
+<!-- - **Specific Configs/Information** (_Optional_) -->
+<!---->
+<!-- Finally, if you want to take a look at some specific app configuration, check the READMEs from each app in their respective config folders. -->
+<!---->
+<!-- Some configuration examples are: -->
+<!---->
+<!-- - [fish](../.config/fish/) -->
+<!-- - [neovim](../.config/nvim/) -->
+<!-- - [browser](../.config/browser/) -->
+<!-- - [yazi](../.config/yazi/) -->
+<!-- - [hyprland](../.config/hypr/) -->
+<!-- - [vscodium](../.config/VSCodium/User/) -->
+<!-- - [tmux](../.config/tmux/) -->
+<!---->
+<!-- If you had any issues feel free to [open an issue](https://github.com/Matt-FTW/dotfiles/issues/new/choose). -->
+<!-- Do you have some questions about the installation process? You can create a [new discussion post](https://github.com/Matt-FTW/dotfiles/discussions/new/choose) then. Be sure to read the [FAQ](./FAQ.md) first! -->
