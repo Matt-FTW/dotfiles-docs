@@ -23,6 +23,39 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "⚙️  App Configs",
+        items: [
+          {
+            text: "browser",
+            link: "/app-confs/browser",
+          },
+          {
+            text: "fish",
+            link: "/app-confs/fish",
+          },
+          {
+            text: "hyprland",
+            link: "/app-confs/hyprland",
+          },
+          {
+            text: "neovim",
+            link: "/app-confs/neovim",
+          },
+          {
+            text: "tmux",
+            link: "/app-confs/tmux",
+          },
+          {
+            text: "vscodium",
+            link: "/app-confs/vscodium",
+          },
+          {
+            text: "yazi",
+            link: "/app-confs/yazi",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
