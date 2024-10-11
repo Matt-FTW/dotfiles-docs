@@ -92,7 +92,7 @@ After you have the file, here's how to install them:
 ~/.local/bin/installCodiumExtensions <extensions-file>
 ```
 
-If you want my list, [check it out](../extensions.txt).
+If you want my list, [check it out](https://github.com/Matt-FTW/dotfiles/blob/main/.config/VSCodium/User/extensions.txt).
 
 ### :package: Native Neovim Integration
 

@@ -21,11 +21,11 @@ Now, here are the plugins I use alongside tmux:
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 - [tmux-floax](https://github.com/omerxx/tmux-floax)
 
-The plugins and their options are declared on [this file](../conf/plugins.conf).
+The plugins and their options are declared on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/tmux/conf/plugins.conf).
 
-For tmux base options, you can find them [over here](../conf/options.conf).
+For tmux base options, you can find them [over here](https://github.com/Matt-FTW/dotfiles/blob/main/.config/tmux/conf/binds.conf).
 
-In the case of the keybindings, [here they are](../conf/binds.conf).
+In the case of the keybindings, [here they are](https://github.com/Matt-FTW/dotfiles/blob/main/.config/tmux/conf/binds.conf).
 
 ## :wrench: Setup
 

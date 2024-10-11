@@ -130,10 +130,6 @@ NVIM_APPNAME=Matt-FTW/dotfiles/.config/nvim nvim
 | ---------------------------------------------------------------------------------------------------------------------- |
 | ![diff-history](https://raw.githubusercontent.com/Matt-FTW/dotfiles/main/.config/nvim/.github/assets/diff-history.png) |
 
-| **Floaterm**                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------- |
-| ![floating](https://raw.githubusercontent.com/Matt-FTW/dotfiles/main/.config/nvim/.github/assets/floating.png) |
-
 | **Dressing Menu**                                                                                              |
 | -------------------------------------------------------------------------------------------------------------- |
 | ![dressing](https://raw.githubusercontent.com/Matt-FTW/dotfiles/main/.config/nvim/.github/assets/dressing.png) |
