@@ -56,6 +56,19 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "📖 Other",
+        items: [
+          {
+            text: "Credits",
+            link: "/other/credits",
+          },
+          {
+            text: "FAQ",
+            link: "/other/FAQ",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
