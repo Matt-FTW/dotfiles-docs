@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "Athenea"
+  name: "matt-ftw"
   text: ".dotfiles"
   tagline: 💄 Yet another Aesthetic Hyprland Config
   actions:
     - theme: brand
       text: 🏠 Getting Started ->
-      link: /getting-started/installation
+      link: /getting-started/about
     - theme: alt
       text: 📜 About
       link: /getting-started/about

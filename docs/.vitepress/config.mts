@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Dotfiles",
+  title: ".dotfiles",
   description: "💄 Yet another Aesthetic Hyprland Config",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -16,7 +16,10 @@ export default defineConfig({
       {
         text: "🏠 Getting Started",
         items: [
-          { text: "About", link: "/getting-started/about" },
+          {
+            text: "About",
+            link: "/getting-started/about",
+          },
           {
             text: "Installation",
             link: "/getting-started/installation",
