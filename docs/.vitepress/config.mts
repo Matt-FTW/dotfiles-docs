@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/getting-started/about" },
-      { text: "Installation", link: "/getting-started/installation" },
+      { text: "Credits", link: "/other/credits" },
     ],
 
     sidebar: [
@@ -19,6 +19,10 @@ export default defineConfig({
           {
             text: "About",
             link: "/getting-started/about",
+          },
+          {
+            text: "Gallery",
+            link: "/getting-started/gallery",
           },
           {
             text: "Installation",
