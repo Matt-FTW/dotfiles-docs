@@ -1,4 +1,4 @@
-# Installation
+# 👉 Installation
 
 > [!WARNING]
 > The installation guide is under construction, try it at your own risk!
@@ -8,7 +8,7 @@
 > [!TIP]
 > Do you want to only install the neovim config? [Check over here!](https://github.com/Matt-FTW/dotfiles/tree/main/.config/nvim#package-neovim-standalone-config)
 
-## :package: Dependencies Installation
+## 📦 Dependencies Installation
 
 > [!NOTE]
 > The names of the packages are from the AUR and Arch Repos; adapt them to your system. Most of the packages are available on other distros official repos (most of the time out-to-date).
@@ -106,7 +106,7 @@ After that, be sure to refresh the font cache:
 fc-cache -fv
 ```
 
-## :floppy_disk: Dotfiles Installation
+## 💾 Dotfiles Installation
 
 > [!CAUTION]
 > Here we can take two routes (Yadm or Git). **CHOOSE ONE, NOT BOTH!**
@@ -173,7 +173,7 @@ Congratulations, at this point your done installing the configuration! :tada:
 
 Logout from your current desktop session and log back into the Hyprland session.
 
-## :heavy_plus_sign: Post Installation
+## ➕ Post Installation
 
 Here are some things you might consider changing or adding:
 
@@ -321,19 +321,9 @@ systemctl --user enable --now pipewire wireplumber
 
 And there you have it.
 
-<!-- - **Specific Configs/Information** (_Optional_) -->
-<!---->
-<!-- Finally, if you want to take a look at some specific app configuration, check the READMEs from each app in their respective config folders. -->
-<!---->
-<!-- Some configuration examples are: -->
-<!---->
-<!-- - [fish](../.config/fish/) -->
-<!-- - [neovim](../.config/nvim/) -->
-<!-- - [browser](../.config/browser/) -->
-<!-- - [yazi](../.config/yazi/) -->
-<!-- - [hyprland](../.config/hypr/) -->
-<!-- - [vscodium](../.config/VSCodium/User/) -->
-<!-- - [tmux](../.config/tmux/) -->
-<!---->
-<!-- If you had any issues feel free to [open an issue](https://github.com/Matt-FTW/dotfiles/issues/new/choose). -->
-<!-- Do you have some questions about the installation process? You can create a [new discussion post](https://github.com/Matt-FTW/dotfiles/discussions/new/choose) then. Be sure to read the [FAQ](./FAQ.md) first! -->
+- **Specific Configs/Information** (_Optional_)
+
+Finally, if you want to take a look at some specific app configuration, check the entries from each app in the **App Configs** section of the page.
+
+If you had any issues feel free to [open an issue](https://github.com/Matt-FTW/dotfiles/issues/new/choose).
+Do you have some questions about the installation process? You can create a [new discussion post](https://github.com/Matt-FTW/dotfiles/discussions/new/choose) then. Be sure to read the [FAQ](../other/FAQ) first!
