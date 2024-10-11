@@ -1,0 +1,11 @@
+start_directory: /home/matt/dev/projects/dotfiles-docs
+session_name: dotfiles-docs
+windows:
+  - window_name: editor
+    panes:
+      - shell_command:
+          - nvim
+  - window_name: service
+    panes:
+      - shell_command:
+          - mise run d

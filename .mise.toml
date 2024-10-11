@@ -1,0 +1,19 @@
+[tools]
+# Install Node.js using the specified version
+node = "latest"
+pnpm = "latest"
+
+# Install npm dependencies
+[tasks.install]
+alias = "i"
+run = "pnpm install"
+
+# Run the development server
+[tasks.dev]
+alias = "d"
+run = "pnpm run docs:dev"
+
+# Build the project
+[tasks.build]
+alias = "b"
+run = "pnpm run docs:build"
