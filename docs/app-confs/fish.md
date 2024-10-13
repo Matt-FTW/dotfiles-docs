@@ -16,7 +16,6 @@ Talking about plugins, these are the ones I'm currently using:
 
 - [Catppuccin](https://github.com/catppuccin/fish)
 - [Done](https://github.com/franciscolourenco/done)
-- [ssh-agent](https://github.com/danhper/fish-ssh-agent)
 - [fzf.fish](https://github.com/Matt-FTW/fzf.fish)
 - [Abbreviations-Tips](https://github.com/gazorby/fish-abbreviation-tips)
 - [Sudope](https://github.com/oh-my-fish/plugin-sudope)
