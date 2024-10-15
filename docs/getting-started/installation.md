@@ -236,6 +236,22 @@ If you are going to use git, be sure to change the user definition as well as th
 
     Now your good to go, check their documentation for more details on how to configure it. I personally use the default profile it comes with and I didn't had any issues.
 
+  - **Swipe Gestures**
+
+    You can have swipe gestures with your touchpad with the [libinput-gestures](https://github.com/bulletmark/libinput-gestures) program.
+
+    ```bash
+    yay -Sy libinput-gestures
+    ```
+
+    Next, start the daemon by placing the next line of code at the end of the [autostart file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/scripts/autostart/services).
+
+    ```bash
+    libinput-gestures &
+    ```
+
+    Check their documentation to configure further.
+
   - **Bluetooth**
 
     Lets start by installing bluez (Bluetooth support) and overskride (GUI):
