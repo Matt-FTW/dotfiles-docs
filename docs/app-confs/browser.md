@@ -34,6 +34,7 @@ The extensions I'm using are:
 - [Stylus](https://github.com/openst) [⚙](https://github.com/Matt-FTW/dotfiles/blob/main/.config/browser/extensions/stylus.json)
 - [SurfingKeys](https://github.com/brookhong/Surfingkeys) [⚙](https://github.com/Matt-FTW/surfingkeys-conf)
 - [Tab Session Manager](https://github.com/sienori/Tab-Session-Manager) [⚙](https://github.com/Matt-FTW/dotfiles/blob/main/.config/browser/extensions/session-manager.json)
+- [User-Agent Switcher](https://gitlab.com/ntninja/user-agent-switcher)
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) [⚙](https://github.com/Matt-FTW/dotfiles/blob/main/.config/browser/extensions/ublock.txt)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 - [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) [⚙](https://github.com/Matt-FTW/dotfiles/blob/main/.config/browser/extensions/violentmonkey.zip)
