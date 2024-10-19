@@ -179,9 +179,9 @@ Here are some things you might consider changing or adding:
 
 - **Change Outputs**
 
-Firstly, change the outputs defined in [this file](../.config/hypr/configs/monitors.conf). They are the ones defined for Hyprland to use, so is very important that you change them. If you wanna know what ID does your monitor has, execute `hyprctl monitors`.
+Firstly, change the outputs defined in [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/configs/monitors.conf). They are the ones defined for Hyprland to use, so is very important that you change them. If you wanna know what ID does your monitor has, execute `hyprctl monitors`.
 
-You also need to change the workspaces associated with that monitor. For that, check [this file](../.config/hypr/configs/workspaces.conf).
+You also need to change the workspaces associated with that monitor. For that, check [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/configs/workspaces.conf).
 
 For more information about Hyprland monitors and workspaces, [check the docs](https://wiki.hyprland.org/).
 
@@ -195,7 +195,7 @@ To change the default applications by filetype, be sure to install [this app](ht
 yay -Sy selectdefaultapplication-fork-git
 ```
 
-If you wanna change the default apps used in the Hyprland bindings, change the variables over on [this file](../.config/hypr/configs/default_apps.conf).
+If you wanna change the default apps used in the Hyprland bindings, change the variables over on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/configs/default_apps.conf).
 
 - **Default Editor**
 
