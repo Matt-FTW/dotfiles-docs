@@ -1,6 +1,13 @@
-# Frequently Asked Questions
+<div align="center">
+<a href="#"><img src="../media/dotfiles-faq.png"></a>
+</div>
 
 ## Does your dotfiles have an automatic installation? If not, are you planning on doing it?
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="90%"/><br>
+
+</div>
 
 No, I dont have any and im not planning on doing it. The main reason is the hasle that is to maintain an install script.
 

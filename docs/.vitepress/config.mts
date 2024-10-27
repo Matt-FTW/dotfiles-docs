@@ -5,6 +5,7 @@ export default defineConfig({
   title: ".dotfiles",
   description: "💄 Yet another Aesthetic Hyprland Config",
   themeConfig: {
+    logo: "/media/logo.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },

@@ -1,4 +1,12 @@
-# :tada: Credits
+<div align="center">
+<a href="#"><img src="../media/dotfiles-credits.png"></a>
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="90%"/><br>
+
+</div>
 
 Big thanks to everyone at r/unixporn for inspiring me to make this!
 

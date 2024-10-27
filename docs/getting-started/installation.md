@@ -1,4 +1,12 @@
-# 👉 Installation
+<div align="center">
+<a href="#"><img src="../media/dotfiles-setup.png"></a>
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="90%"/><br>
+
+</div>
 
 > [!WARNING]
 > The installation guide is under construction, try it at your own risk!
