@@ -16,7 +16,7 @@
 > [!TIP]
 > Do you want to only install the neovim config? [Check over here!](https://github.com/Matt-FTW/dotfiles/tree/main/.config/nvim#package-neovim-standalone-config)
 
-## 📦 Dependencies Installation
+## 📤 Dependencies Installation
 
 > [!NOTE]
 > The names of the packages are from the AUR and Arch Repos; adapt them to your system. Most of the packages are available on other distros official repos (most of the time out-to-date).
@@ -25,7 +25,7 @@
 >
 > In the guide, I will be using [Yay](https://github.com/Jguer/yay) as the AUR helper. Be sure to [install it](https://github.com/Matt-FTW/dotfiles/blob/main/.local/bin/installYay) or change the commands to your preferred one.
 
-### Base Packages
+### 📦 Base Packages
 
 #### System
 
@@ -48,7 +48,7 @@ yay -Sy fastfetch fzf jq eza fd vivid fish starship ripgrep bat yazi
 yay -Sy pavucontrol satty nemo zathura zathura-pdf-mupdf qimgv-light mpv
 ```
 
-### Graphics Drivers
+### 🪟 Graphics Drivers
 
 > [!WARNING]
 > Skip this step if you already have the correct drivers for your graphics card.
@@ -70,7 +70,7 @@ yay -Sy xf86-video-intel vulkan-intel lib32-vulkan-intel vulkan-tools libva-inte
         lib32-libva-intel-driver mesa lib32-mesa mesa-vdpau lib32-mesa-vdpau
 ```
 
-### Color Theme
+### 🎨 Color Theme
 
 To install the color theme for GTK and QT apps use the following command:
 
@@ -79,7 +79,7 @@ yay -Sy catppuccin-gtk-theme-macchiato catppuccin-cursors-macchiato \
         qt5ct qt5-wayland qt6-wayland kvantum kvantum-qt5 nwg-look
 ```
 
-### Icon Theme
+### 📸 Icon Theme
 
 First off, we have to download the icon package from the releases page of their repo. You can do it very easily by using curl.
 
@@ -99,7 +99,7 @@ And finally, move them to the ~/.local/share/icons directory.
 mv Catppuccin-SE ~/.local/share/icons/
 ```
 
-### Fonts
+### 🗛 Fonts
 
 Install the following fonts:
 
@@ -119,7 +119,7 @@ fc-cache -fv
 > [!CAUTION]
 > Here we can take two routes (Yadm or Git). **CHOOSE ONE, NOT BOTH!**
 
-### Yadm Method (_Recommended_)
+### 🌟 Yadm Method
 
 [Yadm](https://yadm.io/) is amazing. It lets you manage your dotfiles with git without the hassle of creating a git repo on your home directory as well as gitignoring a lot of files.
 
@@ -160,7 +160,7 @@ Then, be sure to push your changes to your remote!
 
 Now you can receive new updates from my repo and modify your custom one :sunglasses:
 
-### Git Method
+### 🚀 Git Method
 
 Firstly, clone this repository (remember to have git installed).
 
