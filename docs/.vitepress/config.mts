@@ -6,12 +6,13 @@ export default defineConfig({
   description: "💄 Yet another Aesthetic Hyprland Config",
   themeConfig: {
     logo: "/media/logo.svg",
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/getting-started/about" },
       { text: "Credits", link: "/other/credits" },
     ],
+
+    outline: [2, 3],
 
     sidebar: [
       {
@@ -82,5 +83,22 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/Matt-FTW/dotfiles" },
     ],
+
+    search: {
+      provider: "local",
+    },
+
+    footer: {
+      message:
+        "Released under the <a href='https://github.com/Matt-FTW/dotfiles-docs/blob/main/LICENSE'>GPLv3</a> License.",
+    },
+
+    lastUpdated: {
+      text: "Updated at",
+      formatOptions: {
+        dateStyle: "full",
+        timeStyle: "medium",
+      },
+    },
   },
 });
