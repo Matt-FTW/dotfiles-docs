@@ -45,6 +45,7 @@ The extensions I'm using are:
   - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
   - [GreasyFork Bullshit Filter](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
   - [Fandom Redirect](https://greasyfork.org/en/scripts/476527-fandom-redirect)
+  - [AOTY Add-ons](https://github.com/ashercs/AOTY-Add-ons/blob/main/AOTY-Addons.user.js)
 
 I'm also using my [custom Startpage](https://github.com/Matt-FTW/startpage) based on [this project](https://github.com/pivoshenko/catppuccin-startpage).
 
