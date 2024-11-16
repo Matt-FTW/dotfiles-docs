@@ -58,8 +58,7 @@ Chose one if this commands depending on your graphics card brand.
 ```bash
 # AMD (Open Source)
 yay -Sy xf86-video-amdgpu xf86-video-amdgpu vulkan-radeon lib32-vulkan-radeon vulkan-tools \
-        opencl-clover-mesa lib32-opencl-clover-mesa libva-mesa-driver lib32-libva-mesa-driver \
-        mesa lib32-mesa mesa-vdpau lib32-mesa-vdpau vdpauinfo clinfo
+        opencl-clover-mesa lib32-opencl-clover-mesa mesa lib32-mesa vdpauinfo clinfo
 
 # Nvidia (Propietary)
 yay -Sy nvidia nvidia-utils nvidia-settings opencl-nvidia lib32-nvidia-utils \
