@@ -7,7 +7,6 @@ export default defineConfig({
   themeConfig: {
     logo: "/media/logo.svg",
     nav: [
-      { text: "Home", link: "/" },
       { text: "About", link: "/getting-started/about" },
       { text: "Credits", link: "/other/credits" },
     ],
@@ -23,16 +22,16 @@ export default defineConfig({
             link: "/getting-started/about",
           },
           {
-            text: "Gallery",
-            link: "/getting-started/gallery",
-          },
-          {
             text: "Installation",
             link: "/getting-started/installation",
           },
           {
             text: "Tips",
             link: "/getting-started/tips",
+          },
+          {
+            text: "Gallery",
+            link: "/getting-started/gallery",
           },
         ],
       },

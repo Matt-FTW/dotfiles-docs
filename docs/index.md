@@ -11,9 +11,6 @@ hero:
       text: 🏠 Getting Started ->
       link: /getting-started/about
     - theme: alt
-      text: 📜 About
-      link: /getting-started/about
-    - theme: alt
       text: 👀 View on Github
       link: https://github.com/Matt-FTW/dotfiles
 
