@@ -15,7 +15,8 @@
 The plugins I'm using are the following:
 
 - [Hyprsplit](https://github.com/shezdy/hyprsplit)
-- [Hyprexpo](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo)
+- [Hyprtasking](https://github.com/raybbian/hyprtasking)
+- [Hyprexpo](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo) (_Disabled_)
 - [Hyprspace](https://github.com/KZDKM/Hyprspace) (_Disabled_)
 - [Dynamic Cursors](https://github.com/VirtCode/hypr-dynamic-cursors) (_Disabled_)
 - [Hyprtrails](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprtrails) (_Disabled_)
