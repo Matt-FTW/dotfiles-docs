@@ -65,6 +65,10 @@ Do you want to have a single tool that help you to update a bunch of different p
 yay -Sy topgrade
 ```
 
+## Disable Random Wallpapers
+
+By default, the configuration comes with automatic wallpaper switching for every hour. If you dont want it, you can disable it by **removing the interval line** at the wallpaper section in the [pyprland.toml config](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/pyprland.toml) over on the hyprland config directory.
+
 ## For Laptop Users
 
 For the laptop users, there are some programs that you may want to install.
