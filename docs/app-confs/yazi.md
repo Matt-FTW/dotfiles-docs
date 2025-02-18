@@ -20,9 +20,8 @@ The plugins I'm using are the following:
 - [yatline](https://github.com/imsi32/yatline.yazi)
 - [yatline-githead](https://github.com/imsi32/yatline-githead.yazi)
 - [fg](https://gitee.com/DreamMaoMao/fg.yazi)
-- [smart-filter](https://github.com/yazi-rs/plugins/tree/main/smart-filter.yazi)
-- [hide-preview](https://github.com/yazi-rs/plugins/tree/main/hide-preview.yazi)
 - [git](https://github.com/yazi-rs/plugins/tree/main/git.yazi)
+- [compress](https://github.com/KKV9/compress.yazi)
 
 The added keymaps are located on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/yazi/keymap.toml).
 
