@@ -33,7 +33,7 @@
 yay -Sy hyprland hyprlock hypridle xdg-desktop-portal-hyprland hyprpicker \
         swww waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
         swayosd-git brightnessctl udiskie devify polkit-gnome playerctl \
-        pyprland grim slurp \
+        pyprland grim slurp
 ```
 
 #### CLI/TUI
