@@ -45,7 +45,7 @@ set -xg EDITOR code
 
 ### Git Changes
 
-If you are going to use git, be sure to change the user definition as well as the credentials over on the [gitconfig file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/git/config).
+If you are going to use git, be sure to add your user definition over on the [gitconfig file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/git/config).
 
 ### Keyring Support
 
