@@ -89,7 +89,7 @@ Here is all the information about my setup:
 | **Application Launcher**       | 💖 [rofi](https://github.com/lbonn/rofi) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/rofi)                                   |
 | **Firewall**                   | [ufw](https://wiki.archlinux.org/title/ufw)                                                                                                  |
 | **Clipboard Manager**          | [wl-clipboard](https://github.com/bugaevc/wl-clipboard) (with [cliphist](https://github.com/sentriz/cliphist))                               |
-| **Wallpaper Switcher**         | [swww](https://github.com/Horus645/swww)                                                                                                     |
+| **Wallpaper Switcher**         | [hyprpaper](https://github.com/hyprwm/hyprpaper)                                                                                             |
 | **Lock Screen**                | [hyprlock](https://github.com/hyprwm/hyprlock) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/hypr/hyprlock.conf)               |
 | **Idle Timeout**               | [hypridle](https://github.com/hyprwm/hypridle) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/hypr/hypridle.conf)               |
 | **Color Picker**               | [hyprpicker](https://github.com/hyprwm/hyprpicker)                                                                                           |

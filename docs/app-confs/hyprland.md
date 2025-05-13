@@ -26,6 +26,7 @@ Alongside this plugins, I use some specific apps from the hypr ecosystem
 - [Hyprlock](https://github.com/hyprwm/hyprlock)
 - [Hypridle](https://github.com/hyprwm/hypridle)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)
+- [Hyprpaper](https://github.com/hyprwm/hyprpaper)
 - [pyprland](https://github.com/hyprland-community/pyprland)
 - [Hyprshot](https://github.com/Gustash/Hyprshot) (_Script_)
 - [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) (_Script_)
@@ -70,6 +71,17 @@ After you install an extension, make sure to enable it:
 
 ```bash
 hyprpm enable <extensions-name>
+```
+
+### :package: Wallpaper Engine
+
+By default Hyprpaper is used but the config is ready to also use [swww](https://github.com/LGFae/swww) if you prefer it.
+
+In the [autostart services file](https://github.com/Matt-FTW/dotfiles/tree/main/.config/hypr/scripts/autostart) there is a line at the start where it initializes Hyprpaper alongside generating a random wallpaper. Change it to execute this command and script:
+
+```bash
+swww-daemon --format xrgb &
+"$HOME"/.config/hypr/scripts/random_wallpaper_swww &
 ```
 
 ## :camera: Gallery
