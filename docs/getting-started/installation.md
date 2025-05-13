@@ -39,7 +39,7 @@ yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprl
 #### CLI/TUI
 
 ```bash
-yay -Sy fastfetch fzf jq eza fd vivid fish starship ripgrep bat yazi
+yay -Sy fastfetch fzf jq eza fd vivid fish starship ripgrep bat yazi git-delta
 ```
 
 #### GUI Apps
