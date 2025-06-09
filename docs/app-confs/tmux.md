@@ -16,10 +16,9 @@ Now, here are the plugins I use alongside tmux:
 
 - [tpm](https://github.com/tmux-plugins/tpm) (Plugin manager)
 - [catppuccin](https://github.com/catppuccin/tmux)
-- [tmux-sessionx](https://github.com/omerxx/tmux-sessionx)
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url)
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
-- [tmux-floax](https://github.com/omerxx/tmux-floax)
+- [tmux-fzf](https://github.com/sainnhe/tmux-fzf)
 
 The plugins and their options are declared on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/tmux/conf/plugins.conf).
 
