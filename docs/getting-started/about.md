@@ -53,7 +53,7 @@ The rice codename is **Athenea**, named after the Greek God of War 🛡.
 - **OS**: [Arch Linux](https://archlinux.org/) 💥
 - **WM**: [hyprland](https://hyprland.org/) 🪟
 - **Shell**: [fish](https://fishshell.com/) 🐚
-- **Terminal Emulator**: [kitty](https://sw.kovidgoyal.net/kitty/) 😺
+- **Terminal Emulator**: [ghostty](https://github.com/ghostty-org/ghostty) 😺
 - **Panel**: [waybar](https://github.com/Alexays/Waybar) 🍧
 - **Text Editor**: [neovim](https://neovim.io/) ⌨
 - **App Launcher**: [rofi](https://davatorium.github.io/rofi/) 🚀
@@ -104,7 +104,7 @@ Here is all the information about my setup:
 | 📚 Entry                    | ✨ App                                                                                                                                  |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | **Shell**                   | 💖 [fish](https://fishshell.com/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/fish)                                     |
-| **Terminal Emulator**       | 💖 [kitty](https://sw.kovidgoyal.net/kitty/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/kitty)                         |
+| **Terminal Emulator**       | 💖 [ghostty](https://github.com/ghostty-org/ghostty) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/ghostty)               |
 | **Terminal Multiplexer**    | [tmux](https://github.com/tmux/tmux) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/tmux)                                  |
 | **Shell Prompt**            | [starship](https://starship.rs/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/starship)                                  |
 | **Text Editor**             | 💖 [neovim](https://neovim.io/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/nvim)                                       |
