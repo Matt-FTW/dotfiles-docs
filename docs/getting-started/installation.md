@@ -122,7 +122,7 @@ mv Catppuccin-SE ~/.local/share/icons/
 Install the following fonts:
 
 ```bash
-yay -Sy ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono \
+yay -Sy maplemono-nf-unhinted ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono \
         ttf-nerd-fonts-symbols-common ttf-font-awesome noto-fonts-cjk ttf-ms-win11-auto
 ```
 

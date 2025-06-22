@@ -161,9 +161,8 @@ Here is all the information about my setup:
 | 📚 Entry                        | ✨ App                                                                                                      |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Colorscheme**                 | 💖 [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin)                                         |
-| **Font**                        | [JetBrainsMono Nerd Font](https://www.jetbrains.com/es-es/lp/mono/)                                         |
+| **Font**                        | [Maple Mono](https://github.com/subframe7536/maple-font)                                                    |
 | **Icon Theme**                  | [Catppuccin-SE](https://github.com/ljmill/catppuccin-icons)                                                 |
 | **Dotfiles Manager**            | 💖 [yadm](https://yadm.io/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/yadm)               |
-| **Automatic System Deployment** | 💖 [Ansible](https://www.ansible.com/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/ansible) |
 
 </details>
