@@ -17,11 +17,8 @@ The plugins I'm using are the following:
 
 - [full-border](https://github.com/yazi-rs/plugins/tree/main/full-border.yazi)
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi)
-- [yatline](https://github.com/imsi32/yatline.yazi)
-- [yatline-githead](https://github.com/imsi32/yatline-githead.yazi)
-- [fg](https://gitee.com/DreamMaoMao/fg.yazi)
 - [git](https://github.com/yazi-rs/plugins/tree/main/git.yazi)
-- [compress](https://github.com/KKV9/compress.yazi)
+- [starship](https://github.com/Rolv-Apneseth/starship.yazi)
 
 The added keymaps are located on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/yazi/keymap.toml).
 
