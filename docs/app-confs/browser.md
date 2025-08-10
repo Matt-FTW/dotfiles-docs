@@ -69,10 +69,10 @@ Just like before, check your active profile. Now symlink or copy the user.js fil
 
 ```bash
 # Symlink the folder (Recommended, this way changing values on the original path alters the destination)
-ln -sf ~/.config/browser/userjs/{browser}-user.js ~/.{browser}/{profileid}/user.js
+ln -sf ~/.config/browser/userjs/user.js ~/.{browser}/{profileid}/user.js
 
 # Copy the file
-cp ~/.config/browser/userjs/{browser}-user.js ~/.{browser}/{profileid}/user.js
+cp ~/.config/browser/userjs/user.js ~/.{browser}/{profileid}/user.js
 ```
 
 As before, close all instances of your browser and you should be able to test your new user.js.
