@@ -38,7 +38,6 @@ I've been working on this for a long time so I hope you like it!
 - 🚀 Minimal VSCodium with Native Integration of your Neovim Setup
 - 🦀 Rust Alternatives
 - 🔔 Notification Center
-- 🔊 Volume and Brightness OSD
 - 🎨 Color Scripts for the Terminal
 - 🔐 Idle and Lock apps
 - ⚡ Performance Mode
@@ -56,7 +55,7 @@ The rice codename is **Athenea**, named after the Greek God of War 🛡.
 - **Terminal Emulator**: [ghostty](https://github.com/ghostty-org/ghostty) 😺
 - **Panel**: [waybar](https://github.com/Alexays/Waybar) 🍧
 - **Text Editor**: [neovim](https://neovim.io/) ⌨
-- **App Launcher**: [rofi](https://davatorium.github.io/rofi/) 🚀
+- **App Launcher**: [vicinae](https://github.com/vicinaehq/vicinae) 🚀
 - **File Manager**: [yazi](https://yazi-rs.github.io/) / [nemo](https://community.linuxmint.com/software/view/nemo) 📂
 - **Browser**: [Zen-Browser](https://zen-browser.app) 🌐
 - **Notification Manager**: [swaync](https://github.com/ErikReider/SwayNotificationCenter) 🔕
@@ -83,13 +82,12 @@ Here is all the information about my setup:
 | **Display Manager**            | [greetd](https://sr.ht/~kennylevinsen/greetd/) (with [tuigreet](https://github.com/apognu/tuigreet))                                         |
 | **Window Manager**             | 💖 [hyprland](https://hyprland.org/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/hypr)                                       |
 | **Notification Daemon/Center** | [swaync](https://github.com/ErikReider/SwayNotificationCenter) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/swaync)           |
-| **OSD Popup**                  | [swayosd](https://github.com/ErikReider/SwayOSD)                                                                                             |
 | **Bar**                        | 💖 [waybar](https://github.com/Alexays/Waybar) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar)                           |
 | **Audio Daemon**               | [pipewire](https://pipewire.org/)                                                                                                            |
-| **Application Launcher**       | 💖 [rofi](https://github.com/lbonn/rofi) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/rofi)                                   |
+| **Application Launcher**       | 💖 [vicinae](https://github.com/vicinaehq/vicinae)                                                                                           |
 | **Firewall**                   | [ufw](https://wiki.archlinux.org/title/ufw)                                                                                                  |
 | **Clipboard Manager**          | [wl-clipboard](https://github.com/bugaevc/wl-clipboard) (with [cliphist](https://github.com/sentriz/cliphist))                               |
-| **Wallpaper Switcher**         | [hyprpaper](https://github.com/hyprwm/hyprpaper)                                                                                             |
+| **Wallpaper Switcher**         | [awww](https://codeberg.org/LGFae/awww)                                                                                                      |
 | **Lock Screen**                | [hyprlock](https://github.com/hyprwm/hyprlock) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/hypr/hyprlock.conf)               |
 | **Idle Timeout**               | [hypridle](https://github.com/hyprwm/hypridle) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/hypr/hypridle.conf)               |
 | **Color Picker**               | [hyprpicker](https://github.com/hyprwm/hyprpicker)                                                                                           |
@@ -158,11 +156,11 @@ Here is all the information about my setup:
 <details>
   <summary><b>🔍 Other</b></summary>
 
-| 📚 Entry                        | ✨ App                                                                                                      |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Colorscheme**                 | 💖 [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin)                                         |
-| **Font**                        | [Maple Mono](https://github.com/subframe7536/maple-font)                                                    |
-| **Icon Theme**                  | [Catppuccin-SE](https://github.com/ljmill/catppuccin-icons)                                                 |
-| **Dotfiles Manager**            | 💖 [yadm](https://yadm.io/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/yadm)               |
+| 📚 Entry             | ✨ App                                                                                        |
+| -------------------- | --------------------------------------------------------------------------------------------- |
+| **Colorscheme**      | 💖 [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin)                           |
+| **Font**             | [Maple Mono](https://github.com/subframe7536/maple-font)                                      |
+| **Icon Theme**       | [Catppuccin-SE](https://github.com/ljmill/catppuccin-icons)                                   |
+| **Dotfiles Manager** | 💖 [yadm](https://yadm.io/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/yadm) |
 
 </details>

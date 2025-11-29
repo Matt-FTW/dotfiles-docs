@@ -30,9 +30,9 @@
 #### System
 
 ```bash
-yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland \
-        waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
-        swayosd-git brightnessctl udiskie devify polkit-gnome playerctl \
+yay -Sy hyprland hyprlock hypridle hyprpicker swww xdg-desktop-portal-hyprland \
+        waybar waybar-updates vicinae-bin swaync wl-clipboard \
+        brightnessctl udiskie devify polkit-gnome playerctl \
         pyprland grim slurp
 ```
 
