@@ -19,6 +19,7 @@ The plugins I'm using are the following:
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi)
 - [git](https://github.com/yazi-rs/plugins/tree/main/git.yazi)
 - [starship](https://github.com/Rolv-Apneseth/starship.yazi)
+- [ouch](https://github.com/ndtoan96/ouch.yazi)
 
 The added keymaps are located on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/yazi/keymap.toml).
 
