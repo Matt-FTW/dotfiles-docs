@@ -1,6 +1,11 @@
-start_directory: /home/matt/dev/projects/dotfiles-docs
-session_name: dotfiles-docs
+start_directory: /home/matt/dev/projects/dotfiles
+session_name: dotfiles
 windows:
+  - window_name: dots
+    start_directory: /home/matt
+    panes:
+      - shell_command:
+          - yadm enter lazygit
   - window_name: editor
     panes:
       - shell_command:
