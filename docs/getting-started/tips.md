@@ -32,6 +32,10 @@ yay -Sy selectdefaultapplication-fork-git
 
 If you wanna change the default apps used in the Hyprland bindings, change the variables over on [this file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/configs/default_apps.conf).
 
+### Default File Manager
+
+If you want to use a TUI file manager like yazi, ranger or nnn install [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser). A config file is already provided with the dotfiles repo so you can change it by following the README of the termfilechooser project.
+
 ### Default Editor
 
 The default editor is Neovim, but you can change it to whatever editor you want. You only need to edit the [fish variables file](https://github.com/Matt-FTW/dotfiles/blob/main/.config/fish/user_variables.fish), and find where the EDITOR variable is defined.
