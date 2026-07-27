@@ -143,7 +143,7 @@ Here is all the information about my setup:
 | **PDF Viewer**           | [Zathura](https://pwmt.org/projects/zathura/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/zathura)                                             |
 | **Note Taking App**      | 💖 [Obsidian](https://obsidian.md/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/obsidian)                                                      |
 | **Video Player**         | [MPV](https://mpv.io/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/mpv)                                                                        |
-| **Image Viewer**         | [qimgv](https://github.com/easymodo/qimgv) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/qimgv)                                                  |
+| **Image Viewer**         | [imv](https://sr.ht/~exec64/imv/) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/imv)                                                  |
 | **File Manager**         | [Nemo](https://community.linuxmint.com/software/view/nemo)                                                                                                     |
 | **Audio Effects**        | [Easyeffects](https://github.com/wwmm/easyeffects) [⚙](https://github.com/Matt-FTW/dotfiles/tree/main/.config/easyeffects)                                    |
 | **Image Editor**         | [Krita](https://krita.org/)                                                                                                                                    |

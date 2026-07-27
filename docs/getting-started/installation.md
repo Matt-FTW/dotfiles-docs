@@ -45,7 +45,7 @@ yay -Sy fastfetch fzf jq eza fd vivid fish starship ripgrep bat yazi git-delta
 #### GUI Apps
 
 ```bash
-yay -Sy pavucontrol satty nemo zathura zathura-pdf-mupdf qimgv-light mpv
+yay -Sy pavucontrol satty nemo zathura zathura-pdf-mupdf imv mpv
 ```
 
 ### 🪟 Graphics Drivers
