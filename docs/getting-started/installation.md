@@ -11,7 +11,7 @@
 > [!WARNING]
 > The installation guide is under construction, try it at your own risk!
 >
-> It is also ment only for Arch based systems. All other distros are not supported and I will not be helping with issues related to them.
+> It is also meant only for Arch based systems. All other distros are not supported and I will not be helping with issues related to them.
 
 > [!TIP]
 > Do you want to only install the neovim config? [Check over here!](https://github.com/Matt-FTW/dotfiles/tree/main/.config/nvim#package-neovim-standalone-config)
